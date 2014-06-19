@@ -1,0 +1,11 @@
+name: Just another lousy blog
+url: http://0xdiba.github.io/
+description: Just another lousy blog
+
+permalink: /:year/:month/:day/:title/
+paginate: 10
+highlighter: true
+
+markdown: kramdown
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
